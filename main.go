@@ -93,7 +93,7 @@ func main() {
 			Lastname:  "Cameron",
 		}})
 	movies = append(movies, Movie{
-		ID:    "1",
+		ID:    "2",
 		Isbn:  "5678",
 		Title: "Not a Movie",
 		Director: &Director{
